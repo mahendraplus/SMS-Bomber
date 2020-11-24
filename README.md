@@ -1,4 +1,4 @@
-:rocket: #  SMSBomber Version 1.1
+#SMSBomber Version 1.1 :rocket:
 
 [GitHub](http://github.com)
 
