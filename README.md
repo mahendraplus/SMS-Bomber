@@ -1,5 +1,1 @@
-![alt text](SMSBomber "SMSBomber(1).png")
-![alt text](SMSBomber "SMSBomber(2).png")
-![alt text](SMSBomber "SMSBomber(3).png")
-![alt text](SMSBomber "SMSBomber(4).png")
-![alt text](SMSBomber "SMSBomber(5).png")
+<img src="SMSBomber(1).png" />
