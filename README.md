@@ -1,6 +1,6 @@
 # SMSBomber Version 1.1 :rocket:
 
-<img src="banner.png" />
+<img src="banner.jpg" />
 
 [<img src="D.png"/>](https://github.com/mahendraplus/SMS-Bomber/raw/main/SMS%20Bomber%20%201.0_1.apk)
 
