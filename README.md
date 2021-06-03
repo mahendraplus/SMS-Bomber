@@ -1,10 +1,10 @@
-# SMSBomber 💣 Version 1.1
+# SMSBomber 💣 Version 1.2.1
 
 <img src="banner.jpg" />
 
 ### Download📥
 
-[<img src="D.png"/>](https://github.com/mahendraplus/SMS-Bomber/raw/main/SMS%20Bomber%20%201.0_1.apk)
+[<img src="D.png"/>](https://github.com/mahendraplus/SMS-Bomber/raw/main/SMS%20Bomber%20%201.2_1.apk)
 
 ### Follow on Instagram
 
