@@ -4,7 +4,7 @@
 
 ### Download📥
 
-[<img src="D.png"/>](https://github.com/mahendraplus/SMS-Bomber/raw/main/SMS%20Bomber%20%201.2_1.apk)
+[<img src="D.png"/>](https://github.com/mahendraplus/SMS-Bomber/releases/download/smsBomber/SMS.Bomber.1.3_3.apk)
 
 ### Follow on Instagram
 
