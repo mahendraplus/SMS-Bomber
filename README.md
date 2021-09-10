@@ -1,4 +1,4 @@
-# SMSBomber 💣 Version 1.1.2
+# SMSBomber V1.1.3
 
 <img src="banner.jpg" />
 
