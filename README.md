@@ -11,4 +11,4 @@ Thank you for your continued support and contributions!
 
 ---
 
-This should clarify the project's name and new repository location.
+
